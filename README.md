@@ -10,6 +10,6 @@ Redux is a [SkyScript](https://skyscript.js.org) package made to add machine lea
 
 ## Installation
 
-Please, copy the **bot.py** file and put it in your script, then run the .py file and type "sks i redux"
+First, make sure to have [Python installed in your device](https://python.org/download), copy the **bot.py** file and put it in your script, then run the .py file and type "sks i redux"
 
 ***COMING SOON***
