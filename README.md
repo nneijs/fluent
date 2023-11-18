@@ -1,4 +1,4 @@
-# Redux <img width="50" alt="Design sans titre (39)" src="https://github.com/nneijs/redux/assets/141363159/b092d206-0eac-4672-890f-524b5788de6d">
+# Redux <img width="150" alt="Design sans titre (39)" src="https://github.com/nneijs/redux/assets/141363159/b092d206-0eac-4672-890f-524b5788de6d">
 
 ## Overview
 
